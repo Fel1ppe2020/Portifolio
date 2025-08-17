@@ -160,6 +160,20 @@ a:focus-visible, .btn:focus-visible{
   box-shadow: 0 0 0 3px rgba(34,211,238,.35);
 }
 
+header {
+  display: flex;
+  align-items: center; /* centraliza verticalmente */
+  gap: 15px;           /* espaço entre a imagem e o nome */
+}
+
+.foto-perfil {
+  width: 150px;         /* tamanho da imagem */
+  height: 150px;
+  border-radius: 50%;  /* deixa a foto redonda */
+  object-fit: cover;   /* mantém proporção e corta o excesso */
+  border: solid rgba(34,211,238,.35); /* opcional: borda branca */
+}
+
 
 
 

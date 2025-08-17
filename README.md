@@ -28,8 +28,9 @@ Bem-vindo ao meu portfólio! Aqui você encontrará projetos de **HTML, CSS, Jav
 ### 1. Calculadora Web
 - **Tecnologias:** HTML, CSS, JavaScript
 - Calculadora funcional com operações básicas (+, -, *, /)
-- Interface intuitiva e fácil de usar
-- Link do projeto: [Calculadora Web](https://seu-usuario.github.io/calculadora-web)
+- Landing Page
+- To-do List JS
+- Link do projeto: [Calculadora Web]([https://seu-usuario.github.io/calculadora-web](https://github.com/Fel1ppe2020/Portifolio/tree/main/p1portifolio.github/calculadora))
 
 ---
 
